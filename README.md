@@ -1,4 +1,3 @@
-```markdown
 # NER MLOps Pipeline
 Проект автоматизации и визуализации решения задачи распознавания именованных сущностей 
 
@@ -281,4 +280,3 @@ python run.py -mode summary
 
 - Датасет: https://huggingface.co/datasets/iluvvatar/NEREL
 - Модель: https://huggingface.co/DeepPavlov/rubert-base-cased
-```
